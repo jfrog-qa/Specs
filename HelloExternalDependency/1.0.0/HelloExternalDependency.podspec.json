@@ -1,0 +1,23 @@
+{
+  "name": "HelloExternalDependency",
+  "version": "1.0.0",
+  "license": {
+    "type": "BSD"
+  },
+  "homepage": "https://github.com/jfrog-qa/Specs",
+  "authors": {
+    "Yacov \tM": "yacovm@jfrog.com"
+  },
+  "summary": "First HelloWorld app",
+  "source": {
+    "http": "https://entplus.jfrog.io/qa-generic-packages/cocoapods/helloCoco.tar.gz"
+  },
+  "source_files": ".",
+  "frameworks": "SystemConfiguration",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
