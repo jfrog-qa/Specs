@@ -10,7 +10,7 @@
   },
   "summary": "First HelloWorld app",
   "source": {
-    "http": "https://entplus.jfrog.io/qa-generic-packages/cocoapods/helloCoco.tar.gz"
+    "http": "https://github.com/jfrog-qa/Artifact/helloCoco.tar.gz"
   },
   "source_files": ".",
   "frameworks": "SystemConfiguration",
